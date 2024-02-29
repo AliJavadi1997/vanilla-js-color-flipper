@@ -1,6 +1,7 @@
 ## Color Flipper
 
 This project is a simple color flipper built using HTML, CSS, and JavaScript. It demonstrates the use of vanilla JavaScript to manipulate the DOM and dynamically change the background color of a web page.
+
 ![color-flipper screenshot](./Screenshot-color-flipper.png)
 
 ### Challenges Addressed
